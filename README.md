@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darad124
-- 👀 I’m interested in React and NextJs project
+- 👀 I’m  a React and NextJs developer
 - 🌱 I’m currently learning 3djs
 - 💞️ I’m looking to collaborate on any front end projecty
 - 📫 How to reach me 

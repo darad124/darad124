@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darad124
 - 👀 I’m  a React and NextJs developer
 - 🌱 I’m currently learning 3djs
-- 💞️ I’m looking to collaborate on any front end projecty
+- 💞️ I’m looking to collaborate on any front end project
 - 📫 How to reach me 
 
 <!---

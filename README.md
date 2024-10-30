@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Dara
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
-
 ## 🌟 About Me  
 - 🔥 Passionate **React** and **Next.js** developer with backend experience in **NestJS**.  
 - 💡 Always exploring new technologies and improving my skills.  

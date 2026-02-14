@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Dara
 
-## 🌟 About Me  
-- 🔥 Passionate **React** and **Next.js** developer with backend experience in **NestJS**.  
-- 💡 Always exploring new technologies and improving my skills.  
-- 🎯 I love solving problems, building modern web apps, and making ideas come to life.  
+##  About Me  
+-  Passionate **React** and **Next.js** developer with backend experience in **NestJS**.  
+-  Always exploring new technologies and improving my skills.  
+-  I love solving problems, building modern web apps, and making ideas come to life.  
 
-## 🚀 Skills & Technologies  
+## Skills & Technologies  
 
 ### 🖥️ Frontend  
-- ⚛️ React, Next.js, Redux  
-- 🎨 UI/UX Design, Responsive Web Design  
+-  React, Next.js, Redux  
+-  UI/UX Design, Responsive Web Design  
 
 ### 🔧 Backend  
-- 🛠️ NestJS, Django  
-- 🌐 REST APIs, GraphQL  
+-   NestJS, Django  
+-   REST APIs, GraphQL  
 
 ### 🗃️ Tools & Platforms  
-- 🐋 Docker, Git, Postman  
-- 🏢 Redis, PostgreSQL, MongoDB  
+-   Docker, Git, Postman  
+-   Redis, PostgreSQL, MongoDB  
 
-### 💻 Programming Languages  
-- 📜 JavaScript, TypeScript, Python, SQL  
+###   Programming Languages  
+-  JavaScript, TypeScript, Python, SQL  
 
 ## 📬 Contact  
 [![Email Badge](https://img.shields.io/badge/-daryjoe765@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:daryjoe765@gmail.com)  
